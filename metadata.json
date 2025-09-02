@@ -1,0 +1,8 @@
+{
+  "name": "TxtTalk",
+  "description": "An all-in-one tool that seamlessly converts audio to text, transforms text into speech, and scans text from your camera, all powered by advanced AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
